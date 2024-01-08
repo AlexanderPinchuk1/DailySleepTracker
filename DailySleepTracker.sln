@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DailySleepTracker.Server", "DailySleepTracker.Server\DailySleepTracker.Server.csproj", "{DD3FAC05-510B-4F04-80F5-4605C4AE66B1}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "dailysleeptracker.client", "dailysleeptracker.client\dailysleeptracker.client.esproj", "{857CFF58-CEFA-4374-BE80-40560991472D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DailySleepTracker.Domain", "DailySleepTracker.Domain\DailySleepTracker.Domain.csproj", "{19078A09-B594-4063-9C9B-2C41D91E4566}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DailySleepTracker.Foundation", "DailySleepTracker.Foundation\DailySleepTracker.Foundation.csproj", "{11C3C297-174B-4CB8-BC99-B5FBDA428506}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DailySleepTracker.Repositories", "DailySleepTracker.Repositories\DailySleepTracker.Repositories.csproj", "{9E8DFB91-B6E2-49D6-9C0F-3D436874B277}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD3FAC05-510B-4F04-80F5-4605C4AE66B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD3FAC05-510B-4F04-80F5-4605C4AE66B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD3FAC05-510B-4F04-80F5-4605C4AE66B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD3FAC05-510B-4F04-80F5-4605C4AE66B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{857CFF58-CEFA-4374-BE80-40560991472D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{857CFF58-CEFA-4374-BE80-40560991472D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{857CFF58-CEFA-4374-BE80-40560991472D}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{857CFF58-CEFA-4374-BE80-40560991472D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{857CFF58-CEFA-4374-BE80-40560991472D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{857CFF58-CEFA-4374-BE80-40560991472D}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{19078A09-B594-4063-9C9B-2C41D91E4566}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19078A09-B594-4063-9C9B-2C41D91E4566}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19078A09-B594-4063-9C9B-2C41D91E4566}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19078A09-B594-4063-9C9B-2C41D91E4566}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11C3C297-174B-4CB8-BC99-B5FBDA428506}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11C3C297-174B-4CB8-BC99-B5FBDA428506}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11C3C297-174B-4CB8-BC99-B5FBDA428506}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11C3C297-174B-4CB8-BC99-B5FBDA428506}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E8DFB91-B6E2-49D6-9C0F-3D436874B277}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E8DFB91-B6E2-49D6-9C0F-3D436874B277}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E8DFB91-B6E2-49D6-9C0F-3D436874B277}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E8DFB91-B6E2-49D6-9C0F-3D436874B277}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36E0C2D0-AA96-46F3-9B9A-99F15CE30833}
+	EndGlobalSection
+EndGlobal

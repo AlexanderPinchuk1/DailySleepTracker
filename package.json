@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@reduxjs/toolkit": "^2.0.1",
+    "react-google-charts": "^4.0.1",
+    "react-redux": "^9.0.4",
+    "redux": "^5.0.1"
+  }
+}
